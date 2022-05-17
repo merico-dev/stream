@@ -1,9 +1,6 @@
----
 name: Bug Report
 description: Report a bug of DevStream
 labels: bug
----
-
 body:
 - type: textarea
   id: problem

@@ -1,9 +1,6 @@
----
 name: Documentation Issue
 description: Help to improve our documentation
 labels: docs
----
-
 body:
 - type: textarea
   id: problem

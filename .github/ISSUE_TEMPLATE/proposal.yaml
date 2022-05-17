@@ -6,6 +6,5 @@ body:
   id: proposal
   attributes:
   label: What would you like to added? Why is this needed?
-  description: |
-  For feature requests, please also engage with the PMC on Slack or WeChat.
+  description: For feature requests, please also engage with the PMC on Slack or WeChat.
   required: true
