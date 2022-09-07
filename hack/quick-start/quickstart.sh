@@ -50,7 +50,7 @@ function downloadDtm() {
 
 function downloadQuickStartConfig() {
   # config file is small so we use -s to ignore the output
-  curl -s -o quickstart.yaml https://raw.githubusercontent.com/devstream-io/devstream/main/examples/quickstart.yaml
+  curl -s -o quickstart.yaml https://raw.githubusercontent.com/devstream-io/devstream/$latestVersion/examples/quickstart.yaml
   echo "quickstart.yaml downloaded completed"
 }
 
